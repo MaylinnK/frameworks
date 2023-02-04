@@ -1,0 +1,40 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./",
+      "outDir": "dist",
+      "target": "esnext",
+      "module": "esnext",
+      "moduleResolution": "node",
+      "jsx": "preserve",
+      "importHelpers": true,
+      "allowJs": true,
+      "allowSyntheticDefaultImports": true,
+      "sourceMap": true,
+      "forceConsistentCasingInFileNames": true,
+      "removeComments": false,
+      "resolveJsonModule": true,
+      "noUnusedLocals": true,
+      "lib": [
+        "esnext",
+        "dom",
+        "dom.iterable",
+        "scripthost"
+      ],
+      "rootDir": ".",
+      "paths": {
+        "@europarcs/*": [
+          "packages/core/*/src"
+        ]
+      },
+    },
+    "include": [
+      "packages/**/*.vue",
+      "packages/**/*.ts",
+      "**/*",
+    ],
+    "exclude": [
+      "node_modules",
+      "lib",
+      "esm"
+    ]
+  }

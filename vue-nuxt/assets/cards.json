@@ -1,0 +1,76 @@
+[
+
+
+    {
+        "name": "Staff of Homa",
+        "stars": 5,
+        "rarity": 0.01,
+        "url": "homa.png",
+        "duplicates": 0,
+        "id": 1
+    },
+    {
+        "name": "Engulfing Lightning",
+        "stars": 5,
+        "rarity": 0.02,
+        "url": "engulfing.png",
+        "duplicates": 0,
+        "id": 2
+    },
+    {
+        "name": "Calamity Queller",
+        "stars": 5,
+        "rarity": 0.03,
+        "url": "calamity.png",
+        "duplicates": 0,
+        "id": 3
+    },
+    {
+        "name": "Wavebreaker's Fin",
+        "stars": 4,
+        "rarity": 0.05,
+        "url": "fin.png",
+        "duplicates": 0,
+        "id": 4
+    },
+    {
+        "name": "Lithic Spear",
+        "stars": 4,
+        "rarity": 0.15,
+        "url": "lithic.png",
+        "duplicates": 0,
+        "id": 5
+    },
+    {
+        "name": "Blackcliff Pole",
+        "stars": 4,
+        "rarity": 0.25,
+        "url": "pole.png",
+        "duplicates": 0,
+        "id": 6
+    },
+    {
+        "name": "Black Tassel",
+        "stars": 3,
+        "rarity": 0.5,
+        "url": "black.png",
+        "duplicates": 0,
+        "id": 7
+    },
+    {
+        "name": "Halberd",
+        "stars": 3,
+        "rarity": 0.7,
+        "url": "halberd.png",
+        "duplicates": 0,
+        "id": 8
+    },
+    {
+        "name": "White Tassel",
+        "stars": 3,
+        "rarity": 0.95,
+        "url": "white.png",
+        "duplicates": 0,
+        "id": 9
+    }
+]
